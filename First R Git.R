@@ -1,1 +1,1 @@
-Print ("This is my first RSCript on Gi")
+Print ("This is my first RSCript on Git")
