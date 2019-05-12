@@ -1,0 +1,1 @@
+Print ("This is my first RSCript on Gi")
